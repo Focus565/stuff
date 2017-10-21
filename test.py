@@ -9,5 +9,5 @@ def main():
     for i in range(num2, 0, -1):
         if num1%i == 0 and num2%i == 0:
             print(i)
-            print(123456)
+            print(1234561231232131)
 main()
