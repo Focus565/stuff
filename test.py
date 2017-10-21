@@ -2,5 +2,5 @@
 def main():
     """find gcd"""
     print('hello')
-    print('world')
+    print('word')
 main()
